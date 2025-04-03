@@ -4,12 +4,12 @@ The computer randomly selects a number and the user has to guess it. The user wi
 ### Requirements
 In this is CLI-based game, you will use the command line to interact with the game. The game should work as follows:
 
-[x] When the game starts, it should display a welcome message along with the rules of the game.
-[x] The computer should randomly select a number between 1 and 100.
-[x] User should select the difficulty level (easy, medium, hard) which will determine the number of chances they get to guess the number.
-[x] The user should be able to enter their guess.
-[x] If the user’s guess is correct, the game should display a congratulatory message along with the number of attempts it took to guess the number.
-[x] If the user’s guess is incorrect, the game should display a message indicating whether the number is greater or less than the user’s guess.
-[x] The game should end when the user guesses the correct number or runs out of chances.
+- [X] When the game starts, it should display a welcome message along with the rules of the game.
+- [X] The computer should randomly select a number between 1 and 100.
+- [X] User should select the difficulty level (easy, medium, hard) which will determine the number of chances they get to guess the number.
+- [X] The user should be able to enter their guess.
+- [X] If the user’s guess is correct, the game should display a congratulatory message along with the number of attempts it took to guess the number.
+- [X] If the user’s guess is incorrect, the game should display a message indicating whether the number is greater or less than the user’s guess.
+- [X] The game should end when the user guesses the correct number or runs out of chances.
 
 Project Inspo URL: https://roadmap.sh/projects/number-guessing-game
